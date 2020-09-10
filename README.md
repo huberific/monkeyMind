@@ -7,4 +7,4 @@ This game was programmed using C++11 for Oregon State's CS 162 final project.
 
 ## Installation
 
-Clone this repo to your local machine using `Inline code` https://github.com/huberific/monkeyMind
+Clone this repo to your local machine using `https://github.com/huberific/monkeyMind'
